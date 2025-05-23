@@ -1,6 +1,6 @@
 const name = "Superbattery";
 let power = 99;
-//hallo
+//hallodd
 export default {
   name,
   currentPower: power,
